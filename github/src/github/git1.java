@@ -1,9 +1,16 @@
 package github;
 
+//import java.util.*;
+
 public class git1 {
 	
-int i =0;
+public void method1() {
+System.out.println("Hello ");
+}
 
-//System.out.println("Hello World");
+public void method2() {
+System.out.println("World");
+}
+
 
 }
